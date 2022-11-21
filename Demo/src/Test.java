@@ -5,5 +5,8 @@ public class Test {
 		System.out.println("rviteja");
 
 	}
+	public  void sample() {
+		System.out.println("com");
+	}
 
 }
